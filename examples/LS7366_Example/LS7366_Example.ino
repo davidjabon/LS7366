@@ -22,7 +22,7 @@ void loop() {
   delay(1000);
 }
 
-//Function to print out one byte in a readable, left-padded binary
+//Function to print out one byte in a readable, left-padded binary format
 
 void print_binary(byte val)
 {
