@@ -1,0 +1,15 @@
+LS7366	KEYWORD1
+clear_mode_register_0	KEYWORD2
+clear_mode_register_1	KEYWORD2
+clear_counter	KEYWORD2
+clear_status_register	KEYWORD2
+read_mode_register_0	KEYWORD2
+read_mode_register_1	KEYWORD2
+read_counter	KEYWORD2
+read_OTR	KEYWORD2
+read_status_register	KEYWORD2
+write_mode_register_0	KEYWORD2
+write_mode_register_1	KEYWORD2
+write_data_register	KEYWORD2
+load_counter	KEYWORD2
+load_OTR	KEYWORD2
