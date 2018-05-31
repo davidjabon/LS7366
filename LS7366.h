@@ -1,7 +1,7 @@
 /*
    LS7366.h - Library for using the LSI/CSI LS7366 quadrature encoder counter with serial interface
    Created by David Jabon
-   Released into the public domain
+   License: GPL 3.0
   The count values that are returned are always unsigned longs (32 bit integers) .
 */
 
