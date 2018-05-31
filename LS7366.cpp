@@ -5,7 +5,7 @@
 /*
    LS7366.cpp - Library for using the LSI/CSI LS7366 quadrature encoder counter with serial interface
    Created by David Jabon
-   Released into the public domain
+   License: GPL 3.0
    
    The count values that are returned are always unsigned longs (32 bit unsigned integers) .
    The code is set up so that it is easy to change to longs instead.  To change to longs, you need to change all
@@ -209,21 +209,3 @@ long LS7366::left_extend_MSB(long val)
 
   return value_to_return;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
