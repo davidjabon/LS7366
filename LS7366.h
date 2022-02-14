@@ -16,7 +16,7 @@
 */
 
 //Count modes 
-#define NQUAD 0x00;                //non-quadrature mode 
+#define NQUAD 0x00                //non-quadrature mode 
 #define QUADRX1 0x01              //X1 quadrature mode 
 #define QUADRX2 0x02             //X2 quadrature mode 
 #define QUADRX4 0x03              //X4 quadrature mode 
