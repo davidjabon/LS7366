@@ -78,7 +78,7 @@
 #define WRITE_MDR0 0x88 
 #define WRITE_DTR   0x98 
 #define LOAD_CNTR   0xE0   
-#define LOAD_OTR    0xE4    
+#define LOAD_OTR    0xE8    
 
 
 class LS7366
